@@ -21,6 +21,7 @@ so I decided to write a quick utility I can install on any machine to see what k
 - [x] Show String representation
 - [ ] Option to auto-quit after 1 minute
 - [ ] Option to limit or hide history
+- [ ] Detect keyboard config at startup
 
 ## Installation
 
