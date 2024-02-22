@@ -24,7 +24,11 @@ so I decided to write a quick utility I can install on any machine to see what k
 
 ## Installation
 
+!TODO
+
 ### From source
+
+!TODO
 
 ### From AUR or other package managers
 
